@@ -1,1 +1,1 @@
-check_inet_full_2.sh
+/opt/watchdog/check_inet_full_3.sh
